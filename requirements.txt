@@ -3,3 +3,5 @@ pymongo
 python-dotenv
 bcrypt
 python-docx
+OpenAI
+streamlit_extras
